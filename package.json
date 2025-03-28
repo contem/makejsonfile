@@ -1,6 +1,6 @@
 {
   "name": "makejsonfile",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stream-friendly utility to generate a JSON file from an array of records.",
   "main": "index.js",
   "scripts": {
