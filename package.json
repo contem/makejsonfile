@@ -1,0 +1,31 @@
+{
+  "name": "makejsonfile",
+  "version": "1.0.2",
+  "description": "Stream-friendly utility to generate a JSON file from an array of records.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "stream",
+    "write",
+    "file",
+    "array",
+    "export",
+    "jsonstream"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contem/makejsonfile"
+  },
+  "bugs": {
+    "url": "https://github.com/contem/makejsonfile/issues"
+  },
+  "homepage": "https://github.com/contem/makejsonfile#readme",
+  "author": "Yunus Emre Buğuş <contem.fe@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5"
+  }
+}
